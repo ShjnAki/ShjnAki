@@ -73,7 +73,7 @@ Je touche à beaucoup de choses, et j'en fais une force. 🧩
 
 | Projet                                               | Description                                                                                                                                             |
 | :--------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🎴 **Cartothèque** &nbsp;`privé · commercial`        | App Rails API + Capacitor pour gérer une collection **Magic** : recherche multilingue, suivi des prix Cardmarket en temps réel, scan de cartes par OCR. |
+| 🎴 **Cartothèque** &nbsp;`privé · commercial`        | App Rails API + Capacitor pour gérer une collection **Magic**                                                                                          |
 | 🛒 **App e-commerce B2B/B2C** &nbsp;`privé · client` | Rails 8.1 : workflow de devis, génération de factures PDF (Prawn), paiements Stripe, back-office complet.                                               |
 | 📊 **Dashboard de pilotage** &nbsp;`privé · client`  | Dashboard interne Rails déployé en Docker sur VPS                                             |
 
@@ -178,7 +178,7 @@ I dabble in a lot of things, and I make it a strength. 🧩
 
 | Project                                                | Description                                                                                                                              |
 | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎴 **TCG_app** &nbsp;`private · commercial`        | Rails API + Capacitor app to manage a **Magic** collection: multilingual search, real-time Cardmarket price tracking, OCR card scanning. |
+| 🎴 **TCG_app** &nbsp;`private · commercial`        | Rails API + Capacitor app to manage a **Magic** collection                                                                                   |
 | 🛒 **B2B/B2C e-commerce app** &nbsp;`private · client` | Rails 8.1: quote workflow, PDF invoice generation (Prawn), Stripe payments, full back-office.                                            |
 | 📊 **Operations dashboard** &nbsp;`private · client`   | Internal Rails dashboard deployed with Docker on a VPS                               |
 
