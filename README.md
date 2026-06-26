@@ -22,7 +22,7 @@ Cette page est encore en développement, j'y reviendrai o/
 <a id="en"></a>
 
 <add readme_en.md>
-
+<p>Coming...</p>
 <div align="right">
-  <a href="#fr">⬆️ Retour en haut / Back to top</a>
+  <a href="#fr">⬆️ Back to top</a>
 </div>
