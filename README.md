@@ -13,8 +13,9 @@
 </a>  
 <br>
 
-<a href="https://github.com/ShjnAki">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShjnAki&show_icons=true&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&icon_color=FFD922&text_color=EB304B" alt="GitHub Stats" />  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
+<!-- <a href="https://github.com/ShjnAki">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShjnAki&show_icons=true&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&icon_color=FFD922&text_color=EB304B" alt="GitHub Stats" />   -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
 </a>
 
 
