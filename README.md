@@ -64,10 +64,11 @@ I dabble in a lot of things, and I make it a strength. 🧩
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+[![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🚀 My projects
 
@@ -156,10 +157,11 @@ Je touche à beaucoup de choses, et j'en fais une force. 🧩
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+[![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🚀 Mes projets
 
@@ -189,6 +191,7 @@ Quand je ne code pas, je suis souvent en train de :
 - 🎯 Jouer à **osu!** (tablette CTL-472, tapping clavier)
 - ✏️ **Dessiner** et trifouiller des trucs créatifs
 - 🐧 Optimiser mon setup **Linux** et mon **OPSEC** (vie privée, self-hosting)
+- 🔑 [![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
 - ♻️ Préparer ma **transition** Windows ⇒ Linux
 
 <br><br>
