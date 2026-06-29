@@ -5,20 +5,6 @@
 <a id="en"></a>
 
 # Hi there, I'm Shin 🤘🏻
-
-## 📊 Stats & Activity
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ShjnAki&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=EB421B&background=45%2C10011D%2C9D2BFF&border=EB0F6C&stroke=EB0F6C&ring=FFD922A5&currStreakLabel=EB304B&currStreakNum=EB304B&sideNums=EB304B&sideLabels=EB304B&dates=FF62E7" alt="GitHub Streak" />
-</a>  
-<br>
-
-<!-- <a href="https://github.com/ShjnAki">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShjnAki&show_icons=true&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&icon_color=FFD922&text_color=EB304B" alt="GitHub Stats" />   -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
-</a>
-
-
 ## 👨‍💻 About me
 
 Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting**, **Python bots** & **infra**
@@ -90,6 +76,19 @@ I dabble in a lot of things, and I make it a strength. 🧩
 | 🎴 **TCG_app** &nbsp;`private · commercial`        | Rails API + Capacitor app to manage a **Magic** collection                                                                                   |
 | 🛒 **B2B/B2C e-commerce app** &nbsp;`private · client` | Rails 8.1: quote workflow, PDF invoice generation (Prawn), Stripe payments, full back-office.                                            |
 | 📊 **Operations dashboard** &nbsp;`private · client`   | Internal Rails dashboard deployed with Docker on a VPS                               |
+
+
+## 📊 Stats & Activity
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ShjnAki&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=EB421B&background=45%2C10011D%2C9D2BFF&border=EB0F6C&stroke=EB0F6C&ring=FFD922A5&currStreakLabel=EB304B&currStreakNum=EB304B&sideNums=EB304B&sideLabels=EB304B&dates=FF62E7" alt="GitHub Streak" />
+</a>  
+<br>
+
+<!-- <a href="https://github.com/ShjnAki">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShjnAki&show_icons=true&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&icon_color=FFD922&text_color=EB304B" alt="GitHub Stats" />   -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
+</a>
 
 ## 🎲 Beyond the code
 
