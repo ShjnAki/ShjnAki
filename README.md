@@ -32,6 +32,8 @@ I dabble in a lot of things, and I make it a strength. 🧩
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Front & Rails tooling
 
@@ -55,6 +57,12 @@ I dabble in a lot of things, and I make it a strength. 🧩
 [![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### AI / LLMs
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## 🚀 My projects
 
@@ -138,6 +146,8 @@ Je touche à beaucoup de choses, et j'en fais une force. 🧩
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Front & Outils Rails
 
@@ -161,6 +171,12 @@ Je touche à beaucoup de choses, et j'en fais une force. 🧩
 [![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### AI / LLMs
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ## 🚀 Mes projets
 
