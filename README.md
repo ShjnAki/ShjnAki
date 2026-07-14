@@ -75,7 +75,7 @@ I dabble in a lot of things, and I make it a strength. 🧩
 
 | Project                                                | Description                                                                                                                              |
 | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎴 **TCG_app** &nbsp;`private · commercial`        | Rails API + Capacitor app to manage a **Magic** collection                                                                                   |
+| 🎴 **TCG_app** &nbsp;`private · commercial`            | Rails API + Capacitor app to manage a **Magic** collection                                                                                   |
 | 🛒 **B2B/B2C e-commerce app** &nbsp;`private · client` | Rails 8.1: quote workflow, PDF invoice generation (Prawn), Stripe payments, full back-office.                                            |
 | 📊 **Operations dashboard** &nbsp;`private · client`   | Internal Rails dashboard deployed with Docker on a VPS                               |
 
@@ -96,10 +96,10 @@ I dabble in a lot of things, and I make it a strength. 🧩
 
 When I'm not coding, you'll often find me:
 
-- 🎯 Playing **osu!** (CTL-472 tablet, keyboard tapping)
+- 🎯 Playing **osu!**
 - ✏️ **Drawing** and tinkering with creative stuff
 - 🐧 Tuning my **Linux** setup and my **OPSEC** (privacy, self-hosting)
-- ♻️ Preparing my **Windows ⇒ Linux** migration
+- ♻️ Preparing my **Windows ⇒ Linux** migration through NixOs
 
 <br><br>
 
