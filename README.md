@@ -1,20 +1,17 @@
 # Hi there, I'm Shin 🤘🏻
-## 👨‍💻 About me
 
-Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting**, **Python bots** & **infra**
+Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting** & **infra**
 
-- Welcome to my GitHub profile! I love building Telegram and Discord bots that I ship as Android apps, setting up dashboards to manage my servers and applications, and hosting my own tools.
 - **Digital sovereignty**, **OPSEC** and **owning my data** are at the heart of how I tinker.
 
 I dabble in a lot of things, and I make it a strength. 🧩
 
 - 🔭 Working on **Rails 8.1** apps deployed with **Docker** on my servers
 - 🌱 Always learning around **infra**, **agentic systems** and **self-hosting**
-- 🤖 Building **bots** (Telegram / Discord) that I turn into **Capacitor apps**
-- 🎴 Developing `Cartothèque`, an app to manage my **Magic: The Gathering** collection with real-time price tracking
-- ⚡ My thing: running everything at home, without depending on cloud giants
-
-> 🚧 Coming soon: a little [snake](https://github.com/Platane/snk) on my profile... 🐍
+- 🤖 Building **bots** (Telegram / Discord) that I turn into **Capacitor apps** on Android. 
+- 🎴 Developing `Cartothèque`, an app to manage a **Magic: The Gathering** collection with real-time price tracking
+- ⚡ My thing: Running everything at home, without depending on cloud giants
+- 🫆 I want to be part of Data Hoarer community.
 
 ## 🛠️ My tech stack
 
@@ -68,7 +65,6 @@ I dabble in a lot of things, and I make it a strength. 🧩
 | 🔊 **[tts-ecosystem](https://github.com/ShjnAki/tts-ecosystem)**                   | Text-to-speech ecosystem: FastAPI API + Telegram/Discord bot + Capacitor APK.                                                                                                |
 | 🃏 **[scryfall-cards-jsonl](https://github.com/ShjnAki/scryfall-cards-jsonl)**     | Public export of my Scryfall database (~550k cards) in JSONL format.                                                                                                         |
 
-> 🚧 _Coming soon as open source: my VPS scripts (encrypted backup, Caddy, Tailscale), a self-hosted **Matrix** architecture doc, and a Python Reddit-scraping bot._
 
 ### 🔒 Private projects
 
