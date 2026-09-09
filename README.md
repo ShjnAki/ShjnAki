@@ -1,17 +1,4 @@
-# Hi there, I'm Shin 🤘🏻
-
 Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting** & **infra**
-
-- **Digital sovereignty**, **OPSEC** and **owning my data** are at the heart of how I tinker.
-
-I dabble in a lot of things, and I make it a strength. 🧩
-
-- 🔭 Working on **Rails 8.1** apps deployed with **Docker** on my servers
-- 🌱 Always learning around **infra**, **agentic systems** and **self-hosting**
-- 🤖 Building **bots** (Telegram / Discord) that I turn into **Capacitor apps** on Android. 
-- 🎴 Developing `Cartothèque`, an app to manage a **Magic: The Gathering** collection with real-time price tracking
-- ⚡ My thing: Running everything at home, without depending on cloud giants
-- 🫆 I want to be part of Data Hoarer community.
 
 ## 🛠️ My tech stack
 
@@ -44,9 +31,6 @@ I dabble in a lot of things, and I make it a strength. 🧩
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-[![PGP](https://img.shields.io/badge/PGP-EC7F2219...BEDF3B13-blueviolet?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://github.com/ShjnAki.gpg)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### AI / LLMs
 
@@ -60,7 +44,8 @@ I dabble in a lot of things, and I make it a strength. 🧩
 
 | Project                                                                            | Description                                                                                                                                                                  |
 | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎓 **[tosa_quiz](https://github.com/ShjnAki/tosa_quiz)**                           | Practice app for the **TOSA** certification, only Excel are available. Offline PWA + Android APK, vanilla JS, auto-deployed via GitHub Actions (Pages + APK build). |
+| 🎓 **[tosa_quiz](https://github.com/ShjnAki/tosa_quiz)**                           | Practice app for the **TOSA** certification, only Excel are available. Offline PWA + Android APK, vanilla JS, auto-deployed via GitHub Actions (Pages + APK build).         |
+| 🎵 **[Osu Music Player](https://github.com/ShjnAki/osu-music_player)**            | **WIP** Music player on your desktop. Multi Theme available. Pick your songs directly from your osu/songs folder!                                                            |
 | 📚 **[alexandria\_\_e-library](https://github.com/ShjnAki/alexandria__e-library)** | Telegram e-library bot, deployed as a systemd service on my VPS. Audiobook support planned.                                                                                  |
 | 🔊 **[tts-ecosystem](https://github.com/ShjnAki/tts-ecosystem)**                   | Text-to-speech ecosystem: FastAPI API + Telegram/Discord bot + Capacitor APK.                                                                                                |
 | 🃏 **[scryfall-cards-jsonl](https://github.com/ShjnAki/scryfall-cards-jsonl)**     | Public export of my Scryfall database (~550k cards) in JSONL format.                                                                                                         |
@@ -81,20 +66,9 @@ I dabble in a lot of things, and I make it a strength. 🧩
   <img src="https://streak-stats.demolab.com?user=ShjnAki&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=EB421B&background=45%2C10011D%2C9D2BFF&border=EB0F6C&stroke=EB0F6C&ring=FFD922A5&currStreakLabel=EB304B&currStreakNum=EB304B&sideNums=EB304B&sideLabels=EB304B&dates=FF62E7" alt="GitHub Streak" />
 </a>  
 <br>
-
-<!-- <a href="https://github.com/ShjnAki">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShjnAki&show_icons=true&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&icon_color=FFD922&text_color=EB304B" alt="GitHub Stats" />   -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
 </a>
 
-## 🎲 Beyond the code
-
-When I'm not coding, you'll often find me:
-
-- 🎯 Playing **osu!**
-- ✏️ **Drawing** and tinkering with creative stuff
-- 🐧 Tuning my **Linux** setup and my **OPSEC** (privacy, self-hosting)
-- ♻️ Preparing my **Windows ⇒ Linux** migration through NixOs
 
 <br><br>
 
