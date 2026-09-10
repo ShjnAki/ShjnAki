@@ -1,5 +1,9 @@
 Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting** & **infra**
 
+Lets check Crowdin if you love a project and want to contribute!
+Here's my profile:
+[![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/shjnaki)
+
 ## 🛠️ My tech stack
 
 #### Languages & Frameworks
