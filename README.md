@@ -1,5 +1,5 @@
 Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting** & **infra**
-
+<br>
 
 ## 🛠️ My tech stack
 
@@ -60,8 +60,7 @@ Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting**
   <img src="https://streak-stats.demolab.com?user=ShjnAki&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=EB421B&background=45%2C10011D%2C9D2BFF&border=EB0F6C&stroke=EB0F6C&ring=FFD922A5&currStreakLabel=EB304B&currStreakNum=EB304B&sideNums=EB304B&sideLabels=EB304B&dates=FF62E7" alt="GitHub Streak" />
 </a>  
 <br>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShjnAki&layout=compact&theme=midnight-purple&hide_border=false&border_color=EB0F6C&bg_color=10011D&title_color=FF62E7&text_color=EB304B" alt="Top Languages" />
-</a>
+
 
 
 <br><br>
