@@ -51,7 +51,7 @@ Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting**
 | :----------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | 🎴 **TCG_app** &nbsp;`private · commercial`            | Rails API + Capacitor app to manage a **Magic** collection                                                                                   |
 | 🛒 **B2B/B2C e-commerce app** &nbsp;`private · work`   | Rails 8.1: quote workflow, PDF invoice generation (Prawn), Stripe payments, full back-office.                                            |
-| 📊 **Operations dashboard** &nbsp;`private · client`   | Internal Rails fucck-backoffice deployed with Docker on a VPS                               |
+| 📊 **Operations dashboard** &nbsp;`private · client`   | Internal Rails full-backoffice deployed with Docker on a VPS                               |
 
 
 ## 📊 Stats & Activity
