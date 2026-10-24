@@ -1,4 +1,4 @@
-Junior **Full Stack** dev working in **Ruby on Rails** • Into **Self-Hosting** & **infra**
+**Full Stack** **Ruby on Rails** Dev • Into **Self-Hosting** | **AI Infrastructure** 
 <br>
 
 ## 🛠️ My tech stack
